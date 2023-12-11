@@ -8,4 +8,33 @@ principal{
     paddding: 30px
 }
 
-h2
+h2{
+    text-align: center;
+}
+
+
+.beneficios {
+    background: #836FFF;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block:
+    vertical-align: top:
+    width: 20%:
+    eargin-rigth: 15%
+}
+
+
+.imagensbeneficios{
+    width: 50%;
+}
+.titulo.centralizado{
+    text-align: center;
+}
+.titulo-principal{
+    padding-left: 20px;
+}
+#banner{
+    width: 100%;
+}
